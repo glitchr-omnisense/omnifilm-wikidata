@@ -1,0 +1,156 @@
+{
+  "entities": {
+    "Q108084492": {
+      "type": "item",
+      "id": "Q108084492",
+      "labels": {
+        "fr": {
+          "value": "arthouse science fiction film",
+          "language": "en",
+          "for-language": "fr"
+        }
+      }
+    },
+    "Q1135802": {
+      "type": "item",
+      "id": "Q1135802",
+      "labels": {
+        "fr": {
+          "language": "fr",
+          "value": "film d'art"
+        }
+      }
+    },
+    "Q130232": {
+      "type": "item",
+      "id": "Q130232",
+      "labels": {
+        "fr": {
+          "language": "fr",
+          "value": "drame"
+        }
+      }
+    },
+    "Q15180": {
+      "type": "item",
+      "id": "Q15180",
+      "labels": {
+        "fr": {
+          "language": "fr",
+          "value": "Union soviétique"
+        }
+      }
+    },
+    "Q271630": {
+      "type": "item",
+      "id": "Q271630",
+      "labels": {
+        "fr": {
+          "language": "fr",
+          "value": "Alisa Freindlich"
+        }
+      }
+    },
+    "Q3561885": {
+      "type": "item",
+      "id": "Q3561885",
+      "labels": {
+        "fr": {
+          "language": "fr",
+          "value": "Vladimir Zamanski"
+        }
+      }
+    },
+    "Q471839": {
+      "type": "item",
+      "id": "Q471839",
+      "labels": {
+        "fr": {
+          "language": "fr",
+          "value": "cinéma de science-fiction"
+        }
+      }
+    },
+    "Q59054": {
+      "type": "item",
+      "id": "Q59054",
+      "labels": {
+        "fr": {
+          "language": "fr",
+          "value": "Boris Strougatski"
+        }
+      }
+    },
+    "Q603381": {
+      "type": "item",
+      "id": "Q603381",
+      "labels": {
+        "fr": {
+          "language": "fr",
+          "value": "Nikolaï Grinko"
+        }
+      }
+    },
+    "Q61699": {
+      "type": "item",
+      "id": "Q61699",
+      "labels": {
+        "fr": {
+          "language": "fr",
+          "value": "Arcadi Strougatski"
+        }
+      }
+    },
+    "Q620653": {
+      "type": "item",
+      "id": "Q620653",
+      "labels": {
+        "fr": {
+          "language": "fr",
+          "value": "Alexandre Kaïdanovski"
+        }
+      }
+    },
+    "Q706995": {
+      "type": "item",
+      "id": "Q706995",
+      "labels": {
+        "fr": {
+          "language": "fr",
+          "value": "Edouard Artemiev"
+        }
+      }
+    },
+    "Q7737": {
+      "type": "item",
+      "id": "Q7737",
+      "labels": {
+        "fr": {
+          "language": "fr",
+          "value": "russe"
+        }
+      }
+    },
+    "Q787038": {
+      "type": "item",
+      "id": "Q787038",
+      "labels": {
+        "fr": {
+          "language": "fr",
+          "value": "Anatoli Solonitsyne"
+        }
+      }
+    },
+    "Q853": {
+      "type": "item",
+      "id": "Q853",
+      "labels": {
+        "fr": {
+          "language": "fr",
+          "value": "Andreï Tarkovski"
+        }
+      }
+    }
+  },
+  "success": 1
+}
