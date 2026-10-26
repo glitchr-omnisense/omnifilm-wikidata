@@ -1,6 +1,6 @@
 # omnifilm/wikidata
 
-[omniscient/omnifilm](https://github.com/glitchr-studio/omnifilm)'s Wikidata, under any PHP host,
+[omnisense/omnifilm](https://github.com/glitchr-omnisense/omnifilm)'s Wikidata, under any PHP host,
 with no key: films, series and episodes from Wikidata's open records through the MediaWiki API.
 
 - **search** - CirrusSearch narrowed on the server to works (`haswbstatement:P31=Q11424|...`:

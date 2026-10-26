@@ -21,7 +21,7 @@ use Symfony\Contracts\HttpClient\HttpClientInterface;
 /** Wikidata's answers as recorded on 2026-10-24 (claims trimmed to the properties read, references dropped). */
 final class WikidataProviderTest extends TestCase
 {
-    private const UA = 'omnifilm-tests/1.0 (+https://github.com/glitchr-studio/omnifilm)';
+    private const UA = 'omnifilm-tests/1.0 (+https://github.com/glitchr-omnisense/omnifilm)';
 
     public function testASearchIsNarrowedToFilmsOnTheServerAndReadInOneMoreCall(): void
     {

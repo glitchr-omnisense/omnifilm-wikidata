@@ -5,7 +5,7 @@ namespace Omnifilm\Wikidata\Tests;
 use Omnifilm\Testing\BareTestCase;
 use Omnifilm\Wikidata\WikidataProvider;
 
-/** omnifilm/wikidata's classes load with omniscient/omnifilm and Symfony's HTTP client contracts alone. */
+/** omnifilm/wikidata's classes load with omnisense/omnifilm and Symfony's HTTP client contracts alone. */
 final class BareTest extends BareTestCase
 {
     protected static function entryClass(): string

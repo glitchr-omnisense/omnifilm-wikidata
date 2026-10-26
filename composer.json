@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Omnifilm's Wikidata, under any PHP host: films, series and episodes from Wikidata's open records (CC0) through the MediaWiki API, with no key - a search narrowed to works on the server, a work by its Q-number or by its IMDb, TMDB or TheTVDB identifier, its genres, cast and crew labelled in the language asked, its poster from Wikimedia Commons; the User-Agent and maxlag Wikimedia's policies ask.",
     "keywords": ["wikidata", "wikibase", "film", "movie", "tv", "series", "imdb", "open-data", "framework-agnostic", "omnifilm"],
-    "homepage": "https://github.com/glitchr-studio/omnifilm-wikidata",
+    "homepage": "https://github.com/glitchr-omnisense/omnifilm-wikidata",
     "license": "MIT",
     "authors": [
         {
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=8.2",
-        "omniscient/omnifilm": "^1.0@dev",
+        "omnisense/omnifilm": "^1.0@dev",
         "symfony/http-client": "^6.4|^7.0|^8.0"
     },
     "require-dev": {

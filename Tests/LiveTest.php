@@ -22,7 +22,7 @@ use Symfony\Component\HttpClient\HttpClient;
 #[Group('live')]
 final class LiveTest extends TestCase
 {
-    private const UA = 'omnifilm-tests/1.0 (+https://github.com/glitchr-studio/omnifilm)';
+    private const UA = 'omnifilm-tests/1.0 (+https://github.com/glitchr-omnisense/omnifilm)';
 
     public function testSearchAndLookups(): void
     {
